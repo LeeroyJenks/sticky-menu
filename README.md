@@ -80,4 +80,4 @@ Options         | Definition
 `right`         | Distance from right of window for sticky elements.<br>`default: 0`
 `spaceBetween`  | Distance between sticky elements.<br>`default: 0`
 `topOffset`     | Distance sticky element has from top of attached element when scrolled into view;
-`attachment`    | Sticky element attribute that points to the attached element.<br>i.e.<br>`<a href="#cookie">cookie</a>`<br>`<div id="cookie">Attached Element</div>`<br>`attachment: 'href'`<br>`default: 'parent'`
+`attachment`    | Sticky element attribute that points to the attached element.<br>i.e.<br>`<a href="#cookie">cookie</a>`<br>`<div id="cookie">Attached Element</div>`<br>`attachment: 'href'`<br><br>`default: 'parent'`
