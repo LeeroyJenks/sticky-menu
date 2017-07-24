@@ -1,16 +1,16 @@
 # sticky-menu
 A fixed menu jQuery plugin that attaches itself to a chosen element.
 
-##Demo
+## Demo
 [plugins.getdans.info/sticky-menu](http://plugins.getdans.info/sticky-menu)
 
-##Installation
+## Installation
 Download from GitHub
 
-###Requirements
+### Requirements
 jQuery
 
-###Use
+### Use
 ```html
 <script>
     $(document).ready(function(){
@@ -18,11 +18,11 @@ jQuery
     });
 </script>
 ```
-###Description
+### Description
 
 This simple plugin fixes a list to the window. You can attach sticky-menu to one or multiple elements. Those elements will be fixed to the bottom of the screen, spaced evenly. They are then attached to your chosen elements. When the elements come to view, the sticky element will follow it to the top of the page and stick there.
 
-###Example
+### Example
 
 ```html
 <div class="menu">
@@ -70,7 +70,7 @@ This simple plugin fixes a list to the window. You can attach sticky-menu to one
 </script>
 ```
 
-###Options
+### Options
 
 Options         | Definition
 --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
